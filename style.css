@@ -2,3 +2,25 @@ body {								/*body*/
 	background-color: #fcfcfc;
 }
 
+
+.main {
+	margin: auto;
+    width: 50%;
+    border: 3px solid #cdcdcd;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.h1_top {
+	color: black;
+	padding: 2%;
+}
+.main_text {
+	padding: 2%;
+}
+.table {
+	padding: 2%;
+}
+.image {
+	width: 140px;
+	height: 100px;
+}
