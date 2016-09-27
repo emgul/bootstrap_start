@@ -1,5 +1,5 @@
 body {								/*body*/
-	background-color: red;
+	background-color:;
 }
 
 
@@ -25,5 +25,8 @@ body {								/*body*/
 
 .vote {
 	float: right;
-	padding: 4%;
+	margin: 2%;
+}
+.form-control {
+	margin: 3%;
 }
